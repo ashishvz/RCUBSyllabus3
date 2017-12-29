@@ -1,0 +1,1266 @@
+<resources>
+    <string name="app_name">RCUBSyllabus</string>
+    <string name="tempadid">ca-app-pub-9323377994714094/1107399513</string>
+    <string name="interadid">ca-app-pub-9323377994714094/4672800501</string>
+
+    //MAINACTIVITY
+
+    <string name="first">First Sem</string>
+    <string name="second">Second Sem</string>
+    <string name="third">Third Sem</string>
+    <string name="fourth">Fourth Sem</string>
+    <string name="fifth">Fifth Sem</string>
+
+    <string name="sixth">Sixth Sem</string>
+
+    //MINACTIVITY
+
+    //FIRSTSEM
+
+    <string name="maths">Mathematics-I</string>
+    <string name="english1">Basic English</string>
+    <string name="compfundamentals">Computer Fundamentals</string>
+    <string name="C">Programming in C</string>
+    <string name="ic">Indian Constitution</string>
+    <string name="account">Financial Accountancy</string>
+
+    //FIRSTSEM
+
+    //SECONDSEM
+
+    <string name="finman">Financial Management</string>
+    <string name="mat2">Mathematics -II</string>
+    <string name="eng2">Add. English</string>
+    <string name="c2">Data Structures Using C</string>
+    <string name="dlcs">Digital Logic and  Computer Design</string>
+    <string name="hres">Human Rights and Environmental Studies</string>
+
+    //SECONDSEM
+
+    //THIRDSEM
+
+    <string name="coa">Computer Organization and Architecture</string>
+    <string name="cpp">OOPS Using C++</string>
+    <string name="dms">Discrete Mathematical Structures</string>
+    <string name="unix">Introduction to UNIX</string>
+    <string name="pd">Personality Development and Communication Skills</string>
+
+    //THIRDSEM
+
+    //FOURTHSEM
+
+    <string name="daa">Design and Analysis of Algorithms</string>
+    <string name="java">Programming Using Java</string>
+    <string name="it">IT Infrastructure and Management</string>
+    <string name="se">Software Engineering</string>
+    <string name="vb">VB.Net</string>
+
+    //FOURTHSEM
+
+    //FIFTHSEM
+
+    <string name="os">Operating System</string>
+    <string name="wp">Web Programming</string>
+    <string name="dbms">Database Management Systems</string>
+    <string name="cn">Computer Networks</string>
+    <string name="cnet">.Net Framework Using C#</string>
+
+    //FIFTHSEM
+
+    //SIXTHSEM
+
+    <string name="spt">Software Practices and Testing</string>
+    <string name="bi">Business Intelligence</string>
+    <string name="j2ee">J2EE</string>
+    <string name="lab">Lab1: J2EE and Software Testing Laboratory</string>
+    <string name="project">Project and viva - voce</string>
+
+    //SIXTHSEM
+
+    //FIRSTSYLLABUS
+
+    <string name="math1">
+        "UNIT I\n\n"
+        "Complex Numbers:Complex Numbers; Conjugate of a complex number; modulus of a complex Number;"
+        "geometrical representation of complex number; De Moivere’s theorem; nth roots of a complex number.\n\n"
+
+        "UNIT II\n\n"
+        "Sequence and Series: Arithmetic Progression (A.P.), Arithmetic Mean (A.M.), Geometric Progression"
+        "(G.P.), general term of a G.P., sum of n terms of a G.P. Arithmetic and geometric series, infinite G.P. and"
+        "its sum, geometric mean (G.M.). Relation between A.M. and G.M.\n\n"
+
+        "UNIT III\n\n"
+        "Binomial Theorem: Statement of the binomial theorem for positive integral indices, general and middle"
+        "term in binomial expansion, simple applications."
+        "Quadratic Equations: Solution of Quadratic Equations by factor method, complete square method, and"
+        "Discriminant method, Relation of the roots.\n\n"
+
+        "UNIT IV\n\n"
+        "Introduction to Trigonometry: Trigonometry, The theorem of Pythagoras, Trigonometric ratios of acute"
+        "angles, Evaluating trigonometric ratios, Solution of right-angled triangles, Angles of elevation and"
+        "depression, Sine and cosine rules, Area of any triangle."
+        "Vectors: Scalars and vectors, addition of two vectors, vector subtraction, scalar and vector products.\n\n"
+
+        "UNIT V\n\n"
+        "Co-ordinate Geometry: Distance formulae, section formulae, shifting of origin. Slope of a line and angle"
+        "between two lines. Various forms of equations of a line: parallel to axes, point slope form, slope-intercept"
+        "form, two-point form, intercepts form and normal form. General equation of a line.Equation of family of"
+        "lines passing through the point of intersection of two lines.Distance of a point from a line.\n\n"
+    </string>
+
+    <string name="eng">
+        "<u>BASIC ENGLISH\n\n</u>"
+        "Text: Seven One-Act Plays (Ed), K.S. Ramamurthy: OUP\n"
+        "Only the following plays are to be studied.\n"
+        "1. The Seven Slaves - A. Ball\n"
+        "2. One Good Turn – A.E.M. Bayliss\n"
+        "3. Night Watches – Allan Monkhouse\n"
+        "4. The Unexpected – Ella Adkins\n"
+        "5. Sunday Costs Five Pesos – Josephina Niggli\n\n"
+        "Grammar and Composition"\n\n"
+        "Modals (Making Sentences using Modals)\n"
+        "Sentence Linkers (Making Sentences using Linkers)\n"
+        "Use of words, phrases and idioms\n"
+        "Describing a situation (Marriage, Birthday, Local fair, temple festivals, national\n"
+        "festivals, Funerals etc.)\n\n"
+
+        "Pattern of Question Paper\n"
+
+        "(80 Marks per paper of three hours and 20 Marks for I.A)\n"
+        "1) Objective type questions on the play\n"
+        "2) Reference to Context\n"
+        "3) Essay type question on the plays (one out of two)\n"
+        "4) Essay type question on the plays (one out of two)\n"
+        "5) Short Notes on the plays (two out of four)\n"
+        "6) A) Modals Make sentences using given modals 5 out of 7\n"
+        "B) Sentence Linkers\n"
+        "Make sentences using given sentence linkers 5 out of 7\n"
+        "7) A) Use of words, phrases and idioms\n"
+        "3 Marks for Use of Words, 3 Marks for Phrases and"
+        "4 marks for Idioms and Phrases\n"
+        "B) Describing a situation (about 200 words)\n\n"
+    </string>
+
+    <string name="compfun">
+     "UNIT I\n\n"
+        "Introduction: Computer, data processing, characteristic features of computers, computer evolution to"
+        "present form, computer generation."
+        "Basic computer organization: Basic operations performed by computers, basic organization of computer"
+        "system, input units and its functions, output units and its functions, storage units and its functions, types"
+         "of storage.\n\n"
+
+        "UNIT II\n\n"
+
+        "Number systems: non-positional number system, positional number system, decimal, binary, octal, and"
+        "hexadecimal number systems. Conversion from decimal to binary and vice-versa."
+        "Computer Codes: Computer data, computer codes: representation of data in binary, commonly used"
+        "computer codes, collating sequence."
+        "Computer arithmetic: Basic arithmetic operations using binary numbers.\n\n"
+
+        "UNIT III\n\n"
+        "Processor and memory: Internal structure of processor, memory structure, types of processors, main"
+        "memory organization, random access memory, read only memory, cache memory."
+        "Secondary storage: secondary storage devices and their needs, commonly used secondary storage devices,"
+        "sequential and direct access storage devices, basic principles of commonly used secondary storage"
+        "devices (magnetic disk, optical disk, flash drives, memory card, disk array)."
+        "IO devices: commonly used input output(IO) devices.\n\n"
+
+        "UNIT IV\n\n"
+        "Software: Software and its relationship with hardware, types of softwares, relationship among hardware,"
+        "system software, application software and users of computer systems, steps involved in software"
+        "development, firmware, middleware."
+        "Application software case study: MS-Word: editing and formatting documents."
+        "Overview of operating system: Definition, functions of operating system, concept of multiprogramming,"
+        "multitasking, multithreading, multiprocessing, time-sharing, real time, single-user and multi-user operating"
+        "system.\n\n"
+
+
+        "UNIT V\n\n"
+        "Windows OS- Basics of Windows, basic components of windows, icons, taskbar, activating windows,"
+        "using desktop, title bar, running applications, exploring computer, managing files and folders, copying"
+        "and moving files and folders. Control panel – display properties, adding and removing software and"
+        "hardware.\n\n"
+    </string>
+
+    <string name="cc">
+       "UNIT I\n\n"
+
+       "Programming Languages and its Classification, Compiler, Interpreter, Linker, Loader."
+        "Problem Solving: Problem Identification, Analysis, flowcharts, Pseudo codes and algorithms,"
+        "Program Coding, Program Testing and Execution. Examples of flow charts and algorithms- Largest"
+        "of three numbers, reversing the digits of an integer, base conversion, GCD of two integers,"
+        "generating prime numbers, sine function computation, computing nth Fibonacci numbers.\n\n"
+
+"UNIT II\n\n"
+"Overview of C: C character set, identifiers and keywords, Data types, Constants and Variables,"
+"Assignment statement, Symbolic constant, Structure of a C Program, printf(), scanf() Functions,"
+"Operators and Expression: Arithmetic, relational, logical, bitwise, unary, assignment, shorthand"
+"assignment operators, conditional operators and increment and decrement operators, Arithmetic"
+"expressions, evaluation of arithmetic expression, type casting and conversion, operator hierarchy and"
+"associativity.\n\n"
+
+"UNIT III\n\n"
+"Decision making and branching: Decision making with IF statement, IF-ELSE statement, Nested IF"
+"statement, ELSE-IF ladder, switch statement, goto statement. Decision making and looping: For, while,"
+"and do-while loop, jumps in loops - break, continue statement, Nested loops."
+"Functions: Standard Mathematical functions, Input/output: Unformatted and formatted I/O function"
+"in C. User defined functions: definition, prototype, Local and global variables, passing parameters,"
+"recursion.\n\n"
+
+"UNIT IV\n\n"
+"Arrays, strings and pointers: Definition, types, initialization, processing an array, passing arrays to"
+"functions, Array of Strings. String constant and variables, Declaration and initialization of string,"
+"Input/output of string data, Storage classes in C: auto, extern, register and static storage class, their"
+"scope, storage, and lifetime."
+"String Handling: String Library Functions: strlen, strcat, strcmp, strcpy, strrev.\n\n"
+
+"UNIT V\n\n"
+"Structure amd Union: Definition of Structure, Declaring Structure, Accessing Structure Elements, Array"
+"of Structure, Nesting of Structure. Definition of Union, declaring and using Union.Difference"
+"between Structure amd Union."
+"Error Handling during I/O Operations, Command Line Arguments, Documentation, debugging, C"
+"Processors, Macros.\n\n"
+    </string>
+
+    <string name="i">
+"UNIT I\n\n"
+"Significance of the constitution: Making of the Constitution role of the Constituent Assembly, Salient"
+"features, the Preamble, Citizenship, Procedure for amendment of the Constitution.\n\n"
+
+"UNIT II\n\n"
+"Fundamentals Rights: the Right to Equality, the Right to Freedom, the Right against Exploitation , the"
+"Right to Freedom of Religion, Cultural and Educational Rights, the Right to Constitutional Remedies.\n\n"
+
+"UNIT III\n\n"
+"Nature of the Directive Principles of State Policy, difference between of Fundamental rights and Directive"
+"principles of State Policy – Implementation of Directive Principles of State Policy, Fundamental Duties.\n\n"
+
+"UNIT IV\n\n"
+"Union Government – Powers and Functions of the President, the Prime Minister, Council of"
+"Ministers.Composition, powers and functions of the Parliament, Organization of Judiciary, Jurisdiction of"
+"the Supreme Court, Independence of Judiciary.\n\n"
+
+"UNIT V\n\n"
+"State Government – Powers and Functions of Governor, Chief Minister, Council of"
+"Ministers.Composition, Powers and functions of State Legislature, Local Government and the"
+"Constitution, Relation between the Union and the states.\n\n"
+    </string>
+
+    <string name="acc">
+        "UNIT I\n\n"
+        "Basic Accounting Concepts: Background of Accounting, Introduction, importance and scope, Accounts –"
+        "Types and classification; basic terms– Capital, Income, Expenditure, Expenses, Assets, Liabilities and"
+        "application to Problems., Accounting Equation, Double Entry System. Generallyaccepted accounting"
+        "principles.\n\n"
+
+        "UNIT II\n\n"
+        "Journal and Ledger- Journal and recording of entries in journal with narration; Ledger –Posting from"
+        "Journal to respective ledger accounts. Basic concepts of purchase book, sales book and cashbook. Trial"
+        "Balance: Need and objectives; Application of Trial Balance; different types of errors escaped, trial"
+        "Balance preparation.\n\n"
+
+        "UNIT III\n\n"
+        "Final Accounts: Final Accounts without adjustments. Understanding of final accounts of a"
+        "Company.Important provisions of Companies Act, 2013 in respect of preparation of Final Accounts.\n\n"
+
+        "UNIT IV\n\n"
+        "Reconciliation and Depreciation: Bank Reconciliation Statement, Methods of Depreciation: Straight line"
+        "Methods, Reducing Balance Method, Change in Depreciation Method. Preparation of simple bank"
+        "reconciliation statement.\n\n"
+
+        "UNIT V\n\n"
+        "Computerised Accounting: Computers and Financial application, Accounting Software packages.An"
+        "overview of computerized accounting system - Salient features and significance, Concept of grouping of"
+        "accounts, Codification of accounts, maintaining the hierarchy of ledger, Generating Accounting Reports.\n\n"
+ </string>
+    //SECONDSEM
+
+    //THIRDSEM
+
+    <string name="finman1">
+"UNIT I\n\n"
+"The Role of Management Accounting, Management Accounting Framework, Functions of"
+"Management Accounting,Tools of Management Accounting,The Balanced Scorecard, Cost"
+"Management System, Value Added Concept , Merits of Management Accounting , Demerits of"
+"Management Accounting , Distinction between Management Accounting and Financial Accounting.\n\n"
+
+"UNIT II\n\n"
+"Financial Statement Analysis: Meaning of Ratio, Steps in Ratio Analysis,Classification of Ratios, Du"
+"Pont Chart , Solved Problems , Advantages of Ratio Analysis, Limitation of Ratio analysis"
+"Funds Flow Analysis: Meaning of Funds Flow Statement, Ascertainment of flow of funds, Technique"
+"of preparing funds flow statement, Schedule of Changes in Working Capital, Adjusted Profit and Loss"
+"account, Funds Flow Statement.\n\n"
+
+"UNIT III\n\n"
+"Cash Flow Analysis: Meaning of Cash Flow Statement , Purpose of Cash Flow Statement , Preparation"
+"of Cash Flow Statement , Format of Cash Flow Statement, Cash Flow from Operating Activities , Cash"
+"Flow Statement under Direct Method , Different between Cash Flow Analysis and Fund Flow"
+"Analysis, Uses of Cash Flow Statement"
+"Understanding Cost: Meaning of Cost, Objective of Costing, Methods of Costing, Technique of"
+"Costing, Classification of Cost, Elements of Cost, Statement of Cost Sheet, Solved Problems.\n\n"
+
+"UNIT IV\n\n"
+"Marginal Costing and Break Even Analysis: Introduction, Concept of Marginal Costing,"
+"Characteristics of Marginal Costing , Difference between Absorption Costing and Marginal Costing ,"
+"Marginal Cost, Contribution, Cost Volume Profit (CVP) Analysis, Break Even Chart , Break Even"
+"Point, Profit Volume ratio or MCSR , Target profit , Margin of Safety , Application of Marginal cost ,"
+"Limitations of Marginal cost, Solved Problems.\n\n"
+
+"UNIT V\n\n"
+"Joint Stock Company - Meaning, Definition, Objectives, Issue of Shares (Equity Shares and Preference"
+"shares), Preparation of final Accounts, Trading account, profit and loss account, profit and loss"
+"appropriation account and balance sheet."
+"Decisions Involving Alternative Choices: Decision Making, Types of Costs, Types of Choices"
+"Decisions, Make or Buy Decisions, Addition/Discontinuance of a Product line, Sell or Process Further,"
+"Operate or Shut down, Exploring New Markets, Maintaining a desired level of profit.\n\n"
+    </string>
+
+    <string name="mat22">
+"UNIT I\n\n"
+"Infinite Series:Convergence and divergence of infinite series, Comparison Test , D’Alembert’s Ratio"
+"Test, Gauss Test, Raabe’s test, Logarithmic Test, Cauchy’s Root Test, Alternating series, Conditional"
+"convergence and absolute convergence.\n\n"
+
+"UNIT II\n\n"
+"Determinants: Definition, Minors, Cofactors, Properties of Determinants."
+"Matrices: Definition, Types of Matrices, Addition, Subtraction, Scalar Multiplication and"
+"Multiplication of Matrices, Adjoint, Inverse, Cramers Rule, Rank of Matrix, Dependence of Vectors,"
+"Eigen Vectors of a Matrix, Caley-Hamilton Theorem (without proof).\n\n"
+
+"UNIT III\n\n"
+"Limits and Continuity:Limit at a Point, Properties of Limit, Computation of Limits of Various Types of"
+"Functions, Continuity at a Point, Continuity Over an Interval, Intermediate Value Theorem, Type of"
+"Discontinuities\n\n"
+
+"UNIT IV\n\n"
+"Differentiation: Derivative, Derivatives of Sum, Differences, Product and Quotients, Chain Rule,"
+"Derivatives of Composite Functions, Logarithmic Differentiation, Rolle’s Theorem, Mean Value"
+"Theorem, Expansion of Functions (Maclaurin’s and Taylor’s), Indeterminate Forms, L’ Hospitals Rule,"
+"Maxima and Minima, Curve Tracing, Successive Differentiation and Liebnitz Theorem.\n\n"
+
+"UNIT V\n\n"
+"Integration: Integral as Limit of Sum, Fundamental Theorem of Calculus( without proof.), Indefinite"
+"Integrals, Methods of Integration Substitution, By Parts, Partial Fractions, Reduction Formulae for"
+"Trigonometric Functions, Gamma and Beta Functions(definition).\n\n"
+    </string>
+
+    <string name="eng22">
+"Text: The Cutting Edge: Science and Scientists\n\n"
+"(Ed. Colin Swatridge (Macmillan)\n"
+"Only the following biographical sketches are to be taught.\n"
+"1. Rene Descartes (1596-1650)\n"
+"2. Antoine Lavoisier (1743-94)\n"
+"3. Ivan Pavlov (1849-1926)\n"
+"4. Sigmund Freud (1856-1939)\n"
+"5. Werner Heisenberg (1901-1976)\n\n"
+
+"Grammar and Composition\n"
+"1) Relative Clauses\n"
+"2) Conditionals and ‘wish’\n"
+"3) Use of words as Two different forms of Speech\n"
+"4) Report Writing (functions, seminars, excursion, tours, accident,"
+"earthquake, flood, etc.)\n\n"
+    </string>
+
+    <string name="dsc">
+        "UNIT I\n\n"
+        "Advanced C: Dynamic memory allocation and pointers in C- Declaring and initializing pointers,"
+        "Pointer and Functions, Pointer and Arrays, Pointer and Strings, Pointer and Structure, Pointer to Pointer."
+        "Static and dynamic memory allocation. Memory allocation functions :malloc, calloc, free and"
+        "realloc. File Management in C: Defining and Opening and Closing File, Input and Output Operations on Files,"
+        "Random Access to Files.\n\n"
+
+        "UNIT II\n\n"
+        "Introduction to Data structures: Definition, Classification of data structures: primitive and non-"
+        "primitive. Operations on data structures Search: Basic Search Techniques- sequential search, Binary search- Iterative and Recursive methods."
+        "Sort- General Background: Definition, different types: Bubble sort, Selection sort, Merge sort,"
+        "Insertion sort, Quick sort.\n\n"
+
+        "UNIT III\n\n"
+        "Recursion: Definition, Recursion in C, Writing Recursive programs – Binomial coefficient,"
+        "Fibonacci, GCD, towers of Hanoi."
+        "Stack – Definition, Array representation of stack, Operations on stack-push and pop, Infix, prefix and"
+        "postfix notations, Conversion of an arithmetic expression from Infix to postfix, applications of stacks.\n\n"
+
+        "UNIT IV\n\n"
+        "Queue - Definition, Array representation of queue, Types of queue: Simple queue, circular queue,"
+        "double ended queue (deque) priority queue, operations on all types of Queues.\n\n"
+
+        "UNIT V\n\n"
+        "Linked list – Definition, components of linked list, representation of linked list, advantages and"
+        "disadvantages of linked list, Arrays versus linked list, Types of linked list: Singly linked list, doubly"
+        "linked list, Circular linked list and circular doubly linked list. Operations on singly linked list: creation,"
+        "insertion, deletion, search and display. Implementation of stack and queues using linked list.\n\n"
+    </string>
+
+    <string name="dlcs2">
+
+        "UNIT I\n\n"
+        "Digital Systems and Binary Numbers: Digital Systems, Number systems and base conversions,"
+        "Representation of signed Binary Numbers, Binary codes, binary logic.\n\n"
+
+        "UNIT II\n\n"
+        "Boolean Algebra: Introduction to Boolean Algebra, Axioms and Laws of Boolean Algebra, Boolean functions, Canonical"
+        "and Standard Forms. Gate – Level Minimization: The Map method, Two, Three, Four Variable K-map’s, Don’t Care"
+        "Conditions, NAND and NOR implementation, Exclusive OR function.\n\n"
+
+        "UNIT III\n\n"
+        "Combinational Logic: Combinational logic circuits, analysis and design procedure, Binary adder and"
+        "subtractor, decimal adder, binary multiplier, Magnitude comparator, Decoders, Encoders,"
+        "Multiplexers.\n\n"
+
+        "UNIT IV\n\n"
+        "Synchronous Sequential Logic: Sequential circuits, Latches, Flip Flops, SR, JK, T, D Flip Flops, Flip"
+        "Flop excitation tables. Registers and Counters: Registers, Shift registers, Ripple counters, Synchronous counters, Other"
+        "counters.\n\n"
+
+        "UNIT V\n\n"
+        "Memory and Programmable Logic: Random access memory, memory decoding, error detection and"
+        "correction, Read-Only memory, Programmable logic array, Programmable array logic, sequential"
+        "programmable devices.\n\n"
+    </string>
+
+    <string name="hres1">
+
+        "Section A: Environmental Studies\n\n"
+
+        "Nature of environmental studies:\n\n"
+        "Definitions, scope and importance, Multidisciplinary nature of environmental studies need for public"
+        "awareness. Natural resources and associated problems: (a) Forest resources : Use and over exploitation,"
+        "deforestation timber extraction , mining , dams and their effects on forests and tribal people (b) Water"
+        "resources : Use and over utilization of surface and ground water ,floods, drought, conflicts, over water,"
+        "dams-benefits and problems (c) Mineral resources use exploitation, environmental effects of extracting"
+        "and using mineral resources (d) Food resources: World food problems , changes caused by agriculture"
+        "effects of modern agriculture, fertilizer problems(e) Energy resources : growing energy needs"
+        "renewable and non-renewable energy sources , use of alternate energy sources (f) land resources: land"
+        "as resources, and land degradation, man induced landslides, soil erosion and desertification. Role of an"
+        "individual in conservation of natural resources.Equitable use of resources for sustainable lifestyles.\n\n"
+
+"Ecosystem:\n\n"
+"Concepts of an ecosystem,structure and function of an ecosystem,Production, consumer sand"
+"de composers, Energy flow in the echo system , Ecological succession , Food chains,food webs and"
+"ecological pyramids, Introduction , types Characteristics features , structures and functions of the"
+"following echo system (a) Forest echo system (b) Grass land echo system(c) desert echo system (d)"
+"Aquatic echo system (ponds , streams, lakes, rivers,oceans, estuaries).\n\n"
+
+"Biodiversity and its conservation:\n\n"
+"Introduction –definition: Generic, species and echo system diversity, bio geographical classification of"
+"India, Value of biodiversity: consumptive use, productive use, social , ethical,aesthetic and option"
+"value , Biodiversity at global , national and local levels, India as a mega diversity nation, Western ghat"
+"as a bio-diversity, Hot spots of biodiversity. Threats to biodiversity: habitat loss, poaching of wildlife,"
+"man wildlife conflicts, Endangered andendemic species of India , Conservation of biodiversity: In situ"
+"and ex-situ , conservation of biodiversity.\n\n"
+
+"Environmental Pollution:\n\n"
+"Definition causes, effects and control measures of (a) Air pollution(b) Water pollution (c) Soil"
+"pollution(d) Marine pollution (e) Noise pollution (f) Thermal pollution (g) Nuclear hazards,Solid"
+"waste management : causes , effects and control measures urban and industrialwastes, Role of an"
+"individual in prevention of pollution , Disaster management : Foodearthquake, cyclone and landslides,"
+"Tsunami.\n\n"
+
+"Social issues and Environment:\n\n"
+"From Unsustainable to Sustainable development , urban problems related to energy ,"
+"Waterconservation, rain water harvesting, watershed management, Resettlement andrehabilitation of"
+"people ;its problems and concerns , Environmental ethics; Issues andpossible solutions , climate"
+"change, global warming , acid rain, ozone layer depletion,nuclear accidents and holocaust, Wasteland"
+"reclamation , consumerism and waste products, Environment protection Act, air (Prevention and"
+"control of pollution) act Water (Preventionand control of pollution) Act, Wildlife protection act, Forest"
+"conservation Act, Issues involvedin enforcement of environmental legislation public awareness.\n\n"
+
+
+"Human Population and the Environment:\n\n"
+"Population growth, variations among nations, Population explosion, family welfareprogramming,"
+"Environment and human health, value Education, women and child welfare,Role of information"
+"technology in environmental and human health.\n\n"
+
+"Field work:\n\n"
+"Visit to a local area to document environmental assets river /forest/grassland/hill/mountain,Visit to a"
+"local polluted site Urban/Rural/Industrial/Agricultural, study of common plants,insects, birds, study of"
+"simple echosystem ponds, river, hill slopes ,etc.\n\n"
+
+        "Section B: Human Rights\n\n"
+
+
+"Unit 1\n\n"
+"Nature of human rights, origin and development of the concept of Human Rights, Functionsof Human"
+"rights in modern society, Human rights and democratic governance; limitations ofHuman rights.\n\n"
+
+"Unit 2\n\n"
+"Classification of Human rights, Civil and political Rights-Nature and functions: Social andEconomics"
+"Rights; Right of vulnerable groups such as women, children minorities, triable and the disabled,"
+"Constitutional incorporation of Human rights in India.\n\n"
+
+"Unit 3\n\n"
+"Enforcement of human rights-basic principles governing enforcement of human rights atnational ,"
+"regional and International levels , national Human rights , Commission-rganization, functions and"
+"powers.\n\n"
+    </string>
+
+    //SECONDSEM
+
+    //THIRDSEM
+
+    <string name="coa1">
+
+        "Unit I\n\n"
+        "Number Systems, Digital Logic Circuits: Decimal number system, binary number system,"
+"octal number system, hexadecimal number system, binary addition, binary subtraction, Logic gates,"
+"Boolean algebra, map simplification, Half Adder, Full Adder, Subtractor, digital integrated circuits,"
+"Decoders, Multiplexers.\n\n"
+
+        "Unit II\n\n"
+        "Register Transfer and Microoperations: Register transfer Language, Register Transfer, Bus"
+"and memory Transfer, arithmetic micro operations, logic micro operations, shift micro operations and"
+"Arithmetic Logic shift Unit.\n\n"
+
+        "Unit III\n\n"
+        "Basic Computer Organization and Design: Instruction codes, computer registers, computer"
+"instructions, timing and control, instruction cycle, memory reference instructions, input output and"
+"interrupt, Complete Computer Description.\n\n"
+
+        "Unit IV\n\n"
+        "Central Processing Unit: Introduction, general register organization, stack organization,"
+"Instruction Formats, addressing modes, Data transfer and manipulation, program control.\n\n"
+
+    "Unit V\n\n"
+        "Input / Output Organization: Peripheral devices, I/O interface, asynchronous data transfer,"
+"modes of transfer, priority interrupt, Direct Memory Access (DMA), Input-Output Processor (IOP), and"
+"serial communication. Memory Organization: memory hierarchy, main memory, auxiliary memory,"
+"associative memory, cache memory, virtual memory and memory management hardware.\n\n"
+    </string>
+
+    <string name="cpp1">
+        "Unit I:\n\n"
+        "Introduction: Procedural language ,definition of OOP , Basic concepts of OOP , Object , Class,"
+"Data Abstraction, Data Encapsulation, Data Hiding member functions, Reusability, Inheritance ,"
+"Creating new Data Types , Polymorphism, Overloading, Dynamic binding and Message passing. C++"
+"Features: The iostream class, C++ Comments, C++ Keywords, Variable declaration, The Const"
+"qualifier , The endl, Setw, set precision , Manipulators , The scope resolution operator , The new and"
+"delete operators. Functions: Simple Functions , Function declaration, calling the functions, function"
+"definition, passing argument to returning value from function; passing constants , variables, pass by"
+"value, passing structure variables, pass by reference ,Default arguments , return statements, return by"
+"reference , overloaded functions, different number of arguments ,different kinds of argument , inline"
+"functions.\n\n"
+
+"Unit II\n\n"
+        "Objects and classes: Classes and objects, class declaration, class members; data"
+"Constructors, Destructors, member functions, Class member visibility ;private, public, protected. The"
+"scope of the class objects constructors; default constructor ,Constructor with argument , constructor"
+"with default arguments , Dynamic constructor , copy constructor , Overloaded constructor , Objects as"
+"function arguments ;member functions defined outside the class, objects as arguments, returning"
+"objects from functions, class conversion, manipulating private Data members Destructors ,classes ,"
+"objects and memory array as class member data, Array of objects , string as class member.\n\n"
+
+"Unit III:\n\n"
+        "Operator Overloading: Overloading unary operator; Operator keyword, Operator arguments,"
+"operator return value, Nameless temporary objects, limitations of increment operator, overloading"
+"binary operator ,arithmetic operators, comparison operator, arithmetic assignment operator, Data"
+"conversion; conversion between Basic types , conversion between objects and basic types, conversion"
+"between objects of different classes.\n\n"
+
+"Unit IV:\n\n"
+        "Inheritance: Derived class and Base class; Specifying the derived class accessing base class"
+"members, the protected access specifier, Derived class constructor , overloading member functions,"
+"public and private inheritance, Access Combinations, classes-structures , Access Specifiers , level of"
+"inheritance ;multiple inheritance, hybrid inheritance , multilevel inheritance; Member functions in"
+"multiple inheritance, constructors in multiple inheritance, container ship, classes within classes,"
+"inheritance and program development.\n\n"
+
+
+"Unit V:\n\n"
+        "Virtual Functions: Normal member function accessed with pointers, Virtual member function"
+"accessed with pointers, Dynamic binding, pure virtual functions, friends for functional notation, friend"
+"classes, the this pointer, Accessing Member Data with this, using this for returning values. Templates"
+"and Exception Handling: Introduction, template, class templates, function templates, member"
+"functions template, template arguments, Exception Handling"
+"Streams: The stream class hierarchy, stream classes Header file, string I/O, Writing strings, reading"
+"strings, character I/O, detecting End of file, Objects I/O writing an object to disk, reading an object from"
+"disk I/O with multiple objects; the istream class, The open function, File pointers; specifying the offset ,"
+"The tellg function, disk I/O with memory Functions, closing Files , Error handling , command Line"
+"arguments.\n\n"
+    </string>
+
+    <string name="dms1">
+       "Unit I:\n\n"
+        "Fundamentals and Counting: Sets and subsets, set operations, Sequences, Division in the"
+"Integers, Matrices and Mathematical Structures. Permutations and Combinations, Pigeonhole"
+"Principle, Elements of Probability, Recurrence Relations.\n\n"
+"Unit II:\n\n"
+        "Fundamentals of Logic: Basic connectives and truth tables, Logical equivalence, the laws of"
+"logic, logical implication, rules of interface, use of quantifiers, quantifiers definition and proofs of"
+"Theorems.\n\n"
+"Unit III:\n\n"
+        "Properties of Integers and Mathematical Induction: The well ordering principle,"
+"Mathematical induction, Recursive definitions, the division algorithm, prime numbers, the GCD, Euclid’s"
+"algorithm, the fundamental theorem of Arithmetic.\n\n"
+"Unit IV:\n\n"
+        "Relations and Digraphs: Products set and partitions, Relations and diagraphs, relations and"
+"digraph , Paths in relations and digraphs ,properties of relations ,equivalence relations , computer"
+"representation of relations and digraphs , operations on relations.\n\n"
+"Unit V:\n\n"
+        "Functions: Functions, functions for computer science, growth of function, permutation"
+functions\n\n"
+    </string>
+
+    <string name="unix1">
+        "Unit I: UNIX Architecture\n\n"
+"History of UNIX, UNIX Architecture, Features of UNIX, Internal and External Commands. General"
+"Purpose Utilities  man, cal, date, echo, printf, bc, script, mailx, passwd, uname, tty, sty.File" system -
+"The file, The parent-child relationship, the home directory, Directory Commands—pwd, cd, mkdir,"
+"rmdir, Absolute pathnames, Relative Path names, ls.\n\n"
+"Unit II: File Handling Commands\n\n"
+"File handling Commands—cat, cp, rm, mv, file, wc, od, comm ,diff ,"
+"dos2unix,unix2dos,gzip,gunzip,tar,zip ,unzip. Basic file attributes ls -l , file ownership ,file"
+"permissions  chmod changing file permissions, Directory permissions, changing file ownership"
+"vi Editor  Different modes of vi editor: input mode, Ex mode and command mode, search and"
+"replace.\n\n"
+"Unit III: The Shell\n\n"
+"The shell interpretive cycle, pattern matching-- the wild card, Escaping, the backlash (/),quoting,"
+"redirection, /dev/null, /dev/tty: Two special files, Pipes, tee, command substitution, shell variables.The"
+"process -- Process basics, ps , Mechanism of process creation, running jobs in background, nice,"
+"Killing processes, Job Control, at and batch, cron, time commands"
+"Customizing the Environment: Customizing the environment using variables, common environment"
+"variables, command history.\n\n"
+"Unit IV : Essential Shell Programming\n\n"
+"Shell scripts, read, exit , Using Command Line Arguments, Logical Operators AND and OR, if conditional,"
+"using test and [ ] to evaluate the expression, the case conditional ,expr, while: looping, for: looping"
+"with a list, arrays: single dimensional , the here document , set and shift, trap, debugging the shell"
+"scripts with set –X.\n\n"
+
+"Unit V :More File attributes\n\n"
+"File systems and Inodes, Hard links, symbolic link and ln,The directory,umask,Modification and access"
+"times, find: Locating files. Simple Filters : pr, head, tail, cut, paste, sort, uniq, tr,"
+"Filters Using Regular Expression - grep, basic regular expressions, extended regular expression ,"
+"egrep, fgrep. Communication in unix –finger, mesg ,write ,talk ,wall ,news ,mail.\n\n"
+    </string>
+
+    <string name="pd1">
+     "Unit I:\n\n"
+        "Meaning and definition of personality : Personality development as a process, Importance of"
+"pass, Importance of personality development , Theories of Personality, Psychological theory(Signed"
+"Freud),Phenomenological theory (Car Rogers) Cognitive theory (George A Kelly) A trait factor –"
+"Analytic approach(Raymond B. Cattel ), Psychosocial development theory(Erickson).\n\n"
+
+"Unit II:\n\n"
+        "Determinants of Personality: Physical, intellectual, Emotional, social, educational familial.\n\n"
+
+"Unit III:\n\n"
+        "The self-Concept: Individual as a self-sculptor, process of perception cognition and their"
+"impact , Learning process, What is attitude, The process of attitude formation.\n\n"
+"Unit IV:\n\n"
+        "Communication and its importance: Process of Communication, written and oral"
+"communication, process of listening body language or non verbal communication, the art of public"
+"speaking.\n\n"
+"Unit V:\n\n"
+        "Leadership as a process: Working in a team , management of conflict , interpersonal and"
+"intrapersonal intergroup , Profiles of great personalities , Career planning and role of career planning"
+"and role of career planning in personality development , How to face personal interview and group"
+"discussion.\n\n"
+    </string>
+
+    //THIRDSEM
+
+    //FOURTHSEM
+
+    <string name="daa1">
+        "Unit I: Introduction:\n\n"
+"Definition of algorithm, Characteristics of algorithm, Algorithm Specification, Performance"
+"analysis.Divide and Conquer: General Method, Binary Search, Finding Maximum and"
+"Minimum, Merge Sort, Quick Sort, Selection Sort, Strassen’s Matrix Multiplication.\n\n"
+
+"Unit II: Greedy method:\n\n"
+"General Method, Knapsack Problem, Job Sequencing With Deadline, Minimum Cost"
+"Spanning Trees, Optimal Storage On Tapes, Optimal Merge Pattern, Single Source"
+"Shortest Paths.\n\n"
+
+"Unit III: Dynamic Programming:\n\n"
+"Introduction To Graphs, Definition Types, Terms Related To Graph, General Method,"
+"Multistage Graphs, All Pair Shortest Paths, Optimal Binary Search Trees, 0/1 –"
+"Knapsack, The Traveling Salesperson Problem, Flow Shop Scheduling.\n\n"
+
+"Unit IV: Basic Traversal and Search Techniques:\n\n"
+"Techniques For Binary Trees, Techniques For Graphs, Connected Components and"
+"Spanning Trees, AND/OR Graphs.\n\n"
+
+"Unit V: Backtracking:\n\n"
+"General Method, The 8 – Queens Problems, Sum Of Subsets, Graph Coloring,"
+"Hamiltonian Cycle, Knapsack Problem.\n\n"
+    </string>
+
+    <string name="java1">
+        "Unit I: Introduction to JAVA:\n\n"
+"JAVA Evolution, Java History, Java features, How java differs from C and C++, Java"
+"and Internet, Java and World Wide Web. Overview of JAVA Language: Introduction,"
+"Simple Java Program, More of Java, An Application with Two Classes, Java Program"
+"structure, Java Tokens, Java Statements, Implementing a Java Program, Java Virtual"
+"Machine, Command Line Arguments, Programming Style. Constants, Variables and"
+"Data Types: Constants, Variables, Data Types, Declaration of Variables, Giving Values"
+"to Variables, Scope of variables, Symbolic Constants, Type Casting, Getting Values of"
+"Variables, Standard Default Values, Operators and Expressions: Arithmetic Operators,"
+"Relational Operators, Logical Operators, Bitwise Operators, Special Operators,"
+"Arithmetic Expressions, Evaluation of Expressions, Precedence of Arithmetic Operators,"
+"Type conversion and Associativity, Mathematical Functions. Decision Making and"
+"Branching: Decision making with if Statement, Simple if Statement, The if...... else"
+"Statement, Nesting of if..Else Statement, The else if Ladder, The Switch Statement, The"
+"?: Operator. Decision Making and Looping: while Statement; do Statement, for"
+"Statement, Jumps in Loops, Labeled Loops.\n\n"
+
+"Unit II: Classes, Arrays, Strings and Vectors:\n\n"
+"Classes, Objects and Methods: Introduction, Defining a Class, Adding Variables,"
+"Adding methods, Creating Objects, Accessing Class Members, Constructors, Methods"
+"Overloading, Static members, Nesting of Methods, Inheritance: Extending a Class"
+"Overriding Methods, Final Variables and Methods, Finalizer Methods, Abstract Methods"
+"and Classes, Visibility Control. Arrays, Strings and Vectors: Arrays, One –"
+"Dimensional Arrays, Creating an Array, Two – Dimensional Arrays, Strings, Vectors,"
+"Wrapper Classes.\n\n"
+
+"Unit III: Interfaces, Packages and Multithreaded Programming:\n\n"
+"Interfaces: Multiple Inheritance: Defining Interfaces, Extending Interfaces, Implementing"
+"Interfaces, Accessing Interface Variable. Packages: Putting Classes together: Java"
+"API Package, ,Using System Packages, Naming Conventions, Creating Packages,"
+"Accessing a Package, Using a Packages, Adding a Class to a Package, Hiding Classes."
+"Multithreaded Programming: Creating Threads, Extending the Thread Class, Using"
+"Thread Methods, Stopping and Blocking a Thread, Life Cycle of a Thread, Thread"
+"Exceptions, Thread Priority, Synchronization, Implementing the ‘Runnable’ Interface.\n\n"
+
+"Unit IV: Managing Exceptions, Applet Programming:\n\n"
+"Managing Errors and Exception: Types of Errors, Exceptions, Syntax of Exception"
+"handling Code, Multiple Catch Statements, Using Finally Statement, Throwing Our Own"
+"Exceptions. Applet Programming: Applets Differ from Applications, Preparing to Write"
+"Applets, Building Applet Code, Applet Life Cycle, Creating an Executable applet,"
+"Designing a Web Page, Applet Tag, Adding Applet to HTML File, Running The Applet,"
+"More about Applet Tag, Passing Parameters to Applets, Aligning the Display, More"
+"About HTML Tags, Displaying Numerical Values, Getting Input from the User.\n\n"
+"Unit V: Graphics Programming, Input / Output: Graphics Programming:\n\n"
+"The Graphics Class, Lines and rectangles, circles and Ellipses, Drawing Arcs, Drawing"
+"Polygons, Line Graphs, Using Control Loops in Applets, Drawing Bar Charts. Managing"
+"Input / Output in JAVA: Concept of Streams, Stream Classes, Byte Stream Classes,"
+"Character Stream Classes, Using Streams. Other Useful I/O Classes, Using the File"
+"Class, Input/Output Exceptions, Creation of Files, Reading/Writing Characters,"
+"Reading/Writing Bytes, Handling Primitive Data Types, Concatenating and Buffering"
+"Files, Interactive Input and Output, Other Stream Classes.\n\n"
+
+"Unit V: Graphics Programming, Input / Output: Graphics Programming:\n\n"
+"The Graphics Class, Lines and rectangles, circles and Ellipses, Drawing Arcs, Drawing"
+"Polygons, Line Graphs, Using Control Loops in Applets, Drawing Bar Charts. Managing"
+"Input / Output in JAVA: Concept of Streams, Stream Classes, Byte Stream Classes,"
+"Character Stream Classes, Using Streams. Other Useful I/O Classes, Using the File"
+"Class, Input/Output Exceptions, Creation of Files, Reading/Writing Characters,"
+"Reading/Writing Bytes, Handling Primitive Data Types, Concatenating and Buffering"
+"Files, Interactive Input and Output, Other Stream Classes.\n\n"
+    </string>
+
+    <string name="vb1">
+        "Unit I: Visual Basic .NET and the .NET Framework:\n\n"
+"Introduction to .net framework -Features, Common Language Runtime (CLR) , Framework"
+"Class Library(FCL), Visual Studio.Net – IDE, Languages Supported, Components."
+"Visual Programming, VB.net- Features,"
+"IDE- Menu System, Toolbars, Code Designer,"
+"Solution Explorer, Object Browser, Toolbox, Class View Window, Properties Window,"
+"Server Explorer, Task List, Output Window, Command Window.\n\n"
+
+"Unit II: Elements of Visual Basic .net:\n\n"
+"Properties, Events and Methods of Form, Label, TextBox, ListBox, Combo Box, Radio"
+"Button, Button, Check Box, Progress Bar, Date Time Picker, Calendar, Picture Box,"
+"HScrollbar, VScrollBar, Group Box, ToolTip, Timer.\n\n"
+
+"Unit III: Programming in Visual basic .net:\n\n"
+"Data Types, Keywords, Declaring Variables and Constants, Operators, Understanding"
+"Scope and accessibility of variables, Conditional Statements- If- Then, If-Then-Else,"
+"Nested If, Select Case, Looping Statement- Do loop, For Loop, For Each-Next Loop, While"
+"Loop, Arrays- Static and Dynamic.\n\n"
+
+"Unit IV: Functions, Built-In Dialog Boxes, Menus and Toolbar:\n\n"
+"Menus and toolbars- Menu Strip, Tool Strip, Status Strip, Built-In Dialog Boxes – Open File"
+"Dialogs, Save File Dialogs, Font Dialogs, Color Dialogs, Print Dialogs, InputBox, MsgBox,"
+"Interfacing With End user- Creating MDI Parent and Child, Functions and Procedures-"
+"Built-In Functions- Mathematical and String Functions, User Defined Functions and"
+"Procedures.\n\n"
+
+"Unit V: Advanced Concepts in VB.Net:\n\n"
+"Object Oriented Programming- Creating Classes , Objects, Fields, Properties, Methods,"
+"Events,"
+"Constructors and destructors, Exception Handling- Models, Statements, File"
+"Handling- Using File Stream Class, File Mode, File Share, File Access Enumerations,"
+"Opening or Creating Files with File Stream Class, Reading and Writing Text using"
+"StreamReader and StreamWriter Classes"
+"Data Access with ADO.Net – Database, Data Access with Server Explorer, Data Adapter"
+"and DataSets, ADO.NET Objects and Basic SQL.\n\n"
+    </string>
+
+    <string name="it1">
+       "Unit I: Introduction to IT Infrastructure:\n\n"
+"IT Infrastructure Management, Challenges, Design Issues of IT Organizations and IT"
+"Infrastructure, Determining Customer’s Requirements, IT Systems Management Process, IT"
+"Service Management Process, Information System Design Process, Patterns for IT Systems"
+"Management, IT Infrastructure Library\n\n"
+
+"Unit II: Service Delivery Process:\n\n"
+"Service Level Management, Financial Management, IT Service Continuity Management,"
+"Capacity Management, Availability Management\n\n"
+
+"Unit III: Service Support Process:\n\n"
+"Configuration Management, Incident"
+"Management, Problem Management,"
+"Management, Release Management"
+"Change\n\n"
+
+"Unit IV: Storage and Security Management:\n\n"
+"Storage Management: Introduction to Storage, Backup and Storage, Archive and Retrieve,"
+"Disaster Recovery, Space Management, Database and Application Protection, Bare"
+"Machine Recovery, Data Retention. Security Management: Computer Security, Internet"
+"Security, Physical Security, Identity Management, Access Control System, Intrusion"
+"Detection.\n\n"
+
+"Unit V: IT Ethics and Emerging Trends in IT:\n\n"
+"It Ethics: Intellectual Property, Privacy and Law, Computer Forensics, Ethics and Internet,"
+"Cyber Crime, Emerging Trends in IT: E-Commerce, Electronic Data Interchange (EDI),"
+"GSM, Bluetooth, Infrared Technology.\n\n"
+    </string>
+
+    <string name="se1">
+        "UNIT 1: Introduction:\n\n"
+"Professional development, software engineering ethics, Software processes – software"
+"process models-"
+"Waterfall Model, Incremental development, reuse oriented Software"
+"engineering, Software process activities Prototyping, Boehm’s spiral model. Requirement"
+"Engineering – Functional and non functional requirement, Software requirements"
+"document, requirements specification, Requirements engineering process, Requirements"
+"elicitation and analysis, requirements validation, Requirements management.\n\n"
+
+"UNIT 2: System Models:\n\n"
+"Context models, Interaction models, Behavioral model, Functional modeling and"
+"Information flow – Data flow diagram, Data dictionary.\n\n"
+
+"UNIT 3: Architectural Design and Implementation:\n\n"
+"Architectural design decisions, architectural views, architectural patterns Design and"
+"Implementation – Object oriented design using UML, Design patterns, Implementation"
+"issues, Open source development.\n\n"
+
+"UNIT 4: Dependability engineering and security engineering"
+"Redundancy and diversity, Dependable processes, dependable architecture, dependable"
+"programming, Security Engineering – Security risk management, Design for security,"
+"System survivability.\n\n"
+
+"UNIT 5: Project Management and Planning:\n\n"
+"Risk management, Managing people, Teamwork, Project planning- Plan driven"
+"development, Project scheduling, Estimation techniques.\n\n"
+    </string>
+
+    //FOURTHSEM
+
+    //FIFTHSEM
+
+    <string name="os1">
+"Unit I: Introduction:\n\n"
+"Batch Systems, Concepts of Multiprogramming and Time Sharing, Parallel, Distributed and real time Systems, Operating System Structures, Components and"
+"Services. Process Management: Process concept, Process scheduling, Co-operating"
+"process, Threads, Inter process communication, CPU scheduling criteria, Scheduling"
+"algorithm.\n\n"
+"Unit II: Process synchronization and deadlocks:\n\n"
+"The critical section problem, Synchronization hardware, Semaphores, Classical problems of synchronization, Critical"
+"regions, monitors, Dead locks –System model , characterization, Dead lock prevention,"
+"avoidance and detection, Recovery from dead lock.\n\n"
+"Unit III: Memory Management:\n\n"
+"Logical and Physical address space, Swapping Contiguous allocation, Paging, Segmentation, Virtual memory – Demand paging and it’s performance,"
+"page replacement algorithms, Allocation of frames, thrashing\n"
+"Unit IV: File management (System, Secondary storage structure):\n\n"
+"File concepts, Access methods, Directory structure, Protection and consistency, semantics, File system structure,"
+"Allocation methods, Free space management\n\n"
+"Unit V: Disk Management (Structure, Disk Scheduling Methods):\n"
+"Disk structure and Scheduling methods , Disk management, Swap – Space management. Protection and"
+"Security: Goals of protection, Domain protection, Access matrix security problem,"
+"Authentication, One time password.\n\n"
+
+    </string>
+
+    <string name="wp1">
+       "Unit I: Fundamentals of Web, XHTML and CSS\n\n"
+"Internet, WWW, Web Browsers, and Web Servers, URLs, MIME,HTTP, The Web"
+"Programmers Toolbox, XHTML- Basic Syntax, Standard structure, Basic text markup,"
+"Images, Hypertext, Links, Lists, Tables, Forms, Frames, CSS- Introduction, Levels of style"
+"sheets, Selector forms, Property value forms, Font properties, Color, Alignment of text, The"
+"box model, Background images, The span and div tags.\n\n"
+
+"Unit II :Javascript\n\n"
+"Overview of Javascript, Syntactic characterstics, Primitives, operations, and expressions,"
+"Screen output and keyboard input, Control statements,Object creation and modification,"
+"Arrays, Functions, Constructor, Pattern matching using regular expressions, Errors in"
+"scripts, Examples. Event and event Handling , Handling events from body elements, Button"
+"elements, Text box and Password elements.\n\n"
+
+"Unit III: ASP.NET\n\n"
+"File types in ASP.NET 3.5,Exploring ASP.NET 3.5 Web Pages, Understanding ASP.NET 3.5"
+"Page Directives, Understanding ASP.NET 3.5 Provider Model, ASP.NET Coding Models,"
+"Implementing Code Sharing, Compilation in ASP.NET 3.5. Application Structure and State:"
+"Structure of an Application, The Global.asax application File, Using States,Http Handlers,"
+"Postback\n\n"
+
+"Unit IV: Web Forms Controls\n\n"
+"The control class, The web control class, Using CSS in Web Application, Web Server"
+"Controls: Label, Button, Textbox , Literal, Place Holder ,Hidden Field, File Upload, Image"
+",Image Map, ListBox, Drop Down List, Hyperlink, Link Button, CheckBox, Radio Buttons,"
+"User Controls and Custom Controls, Validation Controls: Required Field Validator,"
+"Range Validator, Regular Expression Validator, Compare Validator, Custom Validator,"
+"Validation Summary.\n\n"
+
+"Unit V: Data Access With ADO.NET\n\n"
+"Introducing Databases,Introduction to SQL,ADO.Net, Understanding the of"
+"ADO.NET,Creating Connection Strings and Connection to Databases,Command Object and"
+"Data Adapters, Database Contorls: Data Grid View Control,Data List Controls and Details"
+"View Controls.\n\n"
+    </string>
+
+    <string name="dbms1">
+        "Unit I: Introduction:\n\n"
+        "Database and Database Users, Characteristics of the Database"
+"Approach, Actors on the scene, Workers behind the Scene, Advantages of using DBMS,"
+"Brief History. Database System Concepts and Architecture: Data Models, Schemas,"
+"and Instances, Three Schema Architecture and Data Independence, Database language"
+"and interfaces, the database system Environment, Centralized and Client/Server"
+"Architectures for DBMS, Classification of Database Management Systems.\n\n"
+
+"Unit II: Data modelling using the Entity–Relationship(ER) model:\n\n"
+"High level conceptual data models for database design with an example, Entity types, Entity sets,"
+"Attributes and Keys, Relationship types, Relationship sets, Roles and Structural"
+"Constraints, Weak Entity Types, ER Diagrams, Naming Conventions, and Design"
+"Issues, Relationship types of degree higher than two.\n\n"
+
+"Unit 3: Relational Data Model and Relational Algebra:\n\n"
+"Relation Data Model and"
+"Relational Database Constraints, Relation Algebra, Relational Database Design by ER"
+"and EER to Relational Mapping.\n\n"
+
+"Unit 4: Functional dependencies and Normalization for Relational Databases:\n\n"
+"Informal Design Guidelines for Relational Schemas, Functional Dependencies, Normal"
+"Forms based on Primary Keys, General Definition of 2NF and 3NF, Boyce-Codd Normal"
+"Form(BCNF).\n\n"
+
+"Unit 5: Relational Database Language:\n\n"
+"Data definition in SQL, Queries in SQL, Insert,"
+"Delete and Update Statements in SQL, Views in SQL, Specifying General Constraints as"
+"Assertions, Specifying indexes, Embedded SQL. Transaction Processing Concepts:"
+"Introduction, Transaction and System Concepts, Desirable properties of transaction,"
+"Schedules and Recoverability, Serializability of Schedules, Transaction Support in SQL,"
+"Locking Techniques for Concurrency Control\n\n"
+    </string>
+
+    <string name="cn1">
+"Unit I: Introduction:\n\n"
+"Computer Networks and its applications, Network structure,"
+"network architecture, Topologies, LAN, WAN, MAN, The OSI reference model, The"
+"TCP/IP reference model, services, network standards, example networks. The Physical"
+"Layer: Transmission Media – Twisted pair, coaxial cable, optical fiber, radio"
+"transmission, microwaves and infrared transmission, Switching – message switching"
+"Circuit switching, packet switching.\n\n"
+
+"Unit II: The Data Link Layer:\n\n"
+"Data Link Layer design issues, Error detection – Single parity checking,"
+"polynomial codes – CRC, Error correction- Hamming code, Elementary"
+"data link protocols, sliding window protocols, Example data link protocols.\n\n"
+
+"Unit III: The Medium Access Control:\n\n"
+"The channel allocation problem, multiple access"
+"protocols – ALOHA, Slotted ALOHA, CSMA protocols, Collision free protocols, Ethernet,"
+"Wireless LAN, Bluetooth.\n\n"
+
+"Unit IV: The network Layer:\n\n"
+"Network layer design issues, Routing algorithms –"
+"Flooding, Distance vector routing , Hierarchical routing, Link state routing, Congestion"
+"control algorithms – Leaky bucket, token bucket algorithm, admission control, hop by hop"
+"choke packets , Quality of Service.\n\n"
+
+"Unit V: The Transport Layer and Application Layer:\n\n" Transport service, Elements of"
+"Transport protocols, Internet transport protocols (TCP and UDP), DNS, Electronic Mailing,"
+"and World Wide Web.\n\n"
+    </string>
+
+    <string name="cnet1">
+"Unit I:The Philosophy of .NET:\n\n"
+"The .NET Solution, Introducing the Building Blocks of the"
+".NET Platform (CLR,CTS, and CLS), An Overview of .NET Assemblies, C# Language"
+"Fundamentals. Anatomy, The System.Environment Class, Defining Classes and Creating"
+"objects, The System.Console Class, Member Visibility, Default Values of Class Member"
+"Variables, Member Variable Initialization Syntax, Defining Constant Data, Defining Read-"
+"only fields, Understanding the static keyword, Method Parameter Modifiers, Iteration"
+"Types and Reference Types, Understanding Boxing and Unboxing Operations, Working with"
+".NET Enumerations, The Master Class: System.Object, Overridding some default"
+"behaviours of System.Object, The System Data types( and C# Shorthand notation), The"
+"System.String data types, The role of System.Text, StringBuilder, .NET Array Types,"
+"Understanding C# Nullable Types, Defining Custom Namespaces.\n\n"
+
+"Unit II: Object- Oriented Programming :\n\n"
+"Understanding the C# Class Type, Reviewing the"
+"Pillars of OOP, C#’s Encapsulation Services, C#’s Inheritance Support, Programming for"
+"Containment/Delegation, C #’s Polymorphic Support, C# Casting rules, Understanding C#"
+"Partial types, Documenting C# Source Code via XML. Understanding Object Lifetime"
+"Classes, Objects and References, the basics of Object Lifetime, System.GC type, Building"
+"Finalizable Objects, Building Disposable Objects.\n\n"
+
+"Unit III:Exception Handling:\n\n"
+"Ode to Errors, Bugs, and Exceptions, The Role of .NET"
+"Exception Handing, The Simplest possible example, throwing generic exceptions, catching"
+"exceptions, Configuring the state of an exception-Target Site , Stack trace, Helplink and data"
+"property. System – Level Exception (System.Exception), Application-Level Exception"
+"(System.ApplicationException), Processing Multiple Exception, Generic catch statements,"
+"Rethrowing exceptions, Inner exceptions, The Finally Block\n\n"
+
+"Unit IV: Interfaces, Collections, Delegates and Events:\n\n"
+"Defining Interfaces in C#,"
+"Implementing an Interface in C#, Contrasting Interfaces to Abstract Base Classes, Invoking"
+"Interface Members at the Object Level, Interfaces As Parameters, Interfaces As Return"
+"Values, Arrays of Interfaces Types, Understanding Explicit Interface Implementation,"
+"Building Interface Hierarchies, The Interfaces of the System.Collections Namespace, .NET"
+"Delegate type, Defining a Delegate in C#, The System.MulticastDelegate and"
+"System.Delegate Base Classes, Delegate examples, C# Events, Anonymous Method, C#"
+"Method Group Conversions.\n\n"
+
+"Unit V: Understanding .NET Assemblies and Libraries:\n\n"
+"The Role of .NET Assemblies,"
+"Understanding the format of .NET Assemblies, Building and Consuming a Single- File"
+"Assembly, Building and Consuming a Multi-File Assembly, Shared Assemblies, The System"
+"IO Namespace, Directory (Info) and File (Info) types, Working with DirectoryInfo, Directory"
+"Type, FileInfo, File Type Classes, Abstract Stream Class, StreamWriters"
+"StreamReaders, StringWriters and StringReaders, BinaryWriters and BinaryReaders.\n\n"
+    </string>
+
+    //FIFTHSEM
+
+    //SIXTHSEM
+
+    <string name="spt1">
+        "UNIT I:Principles of Testing, Software Development Life Cycle Models (SDLC), Phases of"
+"Software Project, Quality, Quality Assurance and Quality Control, Testing, Verification and"
+"Validation, Life Cycle Models, White Box Testing: White Box Testing, Static Testing, Structural"
+"Testing, Challenges in White Box Testing.\n\n"
+
+"UNIT II: Testing Techniques: Black Box Testing, Integration Testing, Top-Down Integration,"
+"Bottom-Up Integration, Bi-Directional Integration, Defect Bash, System and Acceptance Testing,"
+"Functional versus Non-functional Testing, Functional System Testing, Non-Functional System"
+"Testing, Acceptance Testing.\n\n"
+
+"UNIT III: Performance Testing: Factors, Methodology, Tools, Process for performance testing,"
+"Regression Testing, Types, Testing of Object-oriented Systems, Usability and"
+"AccessibilityTesting, approach, Quality factors, Aesthetics Testing, Accessibility Testing, Tools"
+"for Usability.\n\n"
+
+"UNIT IV: Common People Issues: Perceptions and Misconceptions About Testing,"
+"comparison between Testing and Development Functions, Providing Career Paths for Testing"
+"Professionals, The role of the Ecosystem and a call for Action. Organization Structures for"
+"testing teams: Dimensions of Organization Structures, Structures in Single product"
+"Companies, Structures for Multi-Product Companies. (14.1 to 14.3).\n\n"
+
+"UNIT V: Test Planning, Management: Test Planning: Preparation, scope management, Test"
+"approach, setting up criteria, Identifying responsibilities, test deliveries, testing tasks, activity"
+"breakdown, communication and risk management. Test Management: Choice of standards,"
+"Test Infrastructure Management, Integrating with Product release. (15.1 to 15.3) Software Test"
+"Automation: Introduction, Terms used, Skills needed, scope of automation: Identifying the"
+"types of testing amenable to automation.(16.1 to 16.4.1)\n\n"
+    </string>
+
+    <string name="bi1">
+        "Unit I: Business View of Information Technology applications:\n\n"
+        "Business Enterprise"
+"Organization , Its functions, and core business process, baldrige business excellence frame"
+"work (Optional reading) Key purpose of using IT in business, The connected world :"
+"Characteristics of Internet _Ready IT Applications, Enterprise applications(ERP/CRM) and"
+"bespoke IT applications, information users and their requirements, Types of digital data ,"
+"structured data , unstructured data, Semi-structured data , Difference between semi structured"
+"and structured data.\n\n"
+
+"Unit II: Introduction to OLTP and OLAP :\n\n"
+        "OLTP(online transaction processing) OLAP(online"
+"Analytical Processing) Different OLAP Architectures , OLTP and OLAP, Data models for OLTP"
+"and OLAP, Role of OLAP tools in the BI Architecture , should OLAP be performed directly on"
+"operational data bases. Business intelligence: Using analytical information of decision"
+"support, Information sources before dawn of BI , BI defined , evolution of BI and role of DSS ,"
+"EIS, MIS and digital dash boards, Need for BI at virtually all levels , BI for past , present and"
+"future, The BI value Chain , Introduction to Business analytics.\n\n"
+
+"Unit III:BI definitions and concepts : BI component Framework , BI Users, Business"
+"Intelligence Applications, BI roles and responsibilities, Basics of data integration , Need for"
+"data Warehouse ,Definition of data Warehouse, ODS, Ralph Kimball’s Approach vsInmon’s"
+"Approach , Goals of data warehouse, Constituents of data Warehouse , Data integration, Data"
+"integration technologies , Data Quality , Data Profiling, A case Study from the Healthcare"
+"Domain.\n\n"
+
+"Unit IV:Types of Data Model:Data Modelling techniques, Fact table, Dimension table, Typical"
+"dimensional Models, Dimensional Modelling Life cycle, Understanding Measures and"
+"performance measurement System terminology , navigating a Business Enterprise.\n\n"
+
+"Unit V:Basics of Enterprise Reporting: Reporting perspectives common to all levels of"
+"Enterprise, Report Standardization"
+"and Presentation practices, Enterprise Reporting"
+"characteristics in OLAP World , Balanced score card , Dash boards.\n\n"
+    </string>
+    <string name="j2ee1">
+"Unit I: Swings :\n\n"
+"The origins of Swing; Two key features; MVC Connection; Components and"
+"Containers, The Swing Packages; A simple Swing application; Create a Swing Applet; Jlabel"
+"and ImageIcon; JTextField; The Swing Buttons; JTabbedpane; JScrollPane; JList; JComboBox;"
+"JTable, DesktopPane and JInternalFrames.\n\n"
+
+"Unit II: Java 2 Enterprise Edition Overview, Database Access:\n\n"
+"The Concept of JDBC;"
+"JDBC Driver Types; JDBC Packages; A Brief Overview of the JDBC process; Database"
+"Connection; Associating the JDBC/ODBC Bridge with the Database; Statement Objects;"
+"ResultSet; Transaction Processing; Metadata, Data types; Exceptions\n\n"
+
+"Unit III: Servlets, JSP :\n\n"
+"Background; The Life Cycle of a Servlet; Using Tomcat for Servlet"
+"Development; A simple Servlet; The Servlet API; The Javax. servlet Package; Reading Servlet"
+"Parameter; The Javax.servlet.http package; Handling HTTP Requests and Responses; Using"
+"Cookies; Session Tracking. Java Server Pages (JSP): JSP, JSP Tags, Tomcat, Request"
+"String, User Sessions, Cookies, Session Objects.\n\n"
+
+"Unit IV: Networking and RMI:\n\n"
+"Networking Basics, Classes and Interfaces, Inet Address,"
+"TCP/IP Client Sockets, Server Sockets, URL , URL Connection, HttpURLConnection, The URL"
+"Class, Cookies, Datagrams, Java Remote Method Invocation: Remote Method Invocation"
+"concept; Server side, Client side\n\n"
+
+"Unit V: Enterprise Java Beans :\n\n"
+"Enterprise java Beans; Deployment Descriptors; Session"
+"Java Bean, Entity Java Bean; Message-Driven Bean; The JAR File.\n\n"
+    </string>
+
+    <string name="lab1">
+"J2EE Lab Assignments\n\n"
+"1. Write a JAVA Swing Program to create a MDI form and child forms.\n"
+"2. Write a JAVA Program to insert data into Student DATA BASE and retrieve info base on"
+"particular queries\n"
+"3. Write a JAVA Servlet Program to implement a dynamic HTML using Servlet (user name"
+"and password should be accepted using HTML and displayed using a Servlet).\n"
+"4. Write a JAVA Servlet Program to Download a file and display it on the screen (A link has"
+"to be provided in HTML, when the link is clicked corresponding file has to be displayed"
+"on Screen)\n"
+"5. Write a JAVA Servlet Program to implement and demonstrate get() and Post"
+"methods(Using HTTP Servlet Class).\n"
+"6. Write a JAVA Servlet Program to implement sendRedirect() method(using HTTP Servlet"
+"Class)\n"
+"7. Write a JAVA Program to establish the client and server communication using TCP/IP"
+"socket.\n"
+"8. Write a JAVA JSP Program to print 10 even and 10 odd number.\n\n"
+"Software Testing Lab Assignments\n\n"
+"1. Write a program(C/C++/Java) to test the following constructs.\n"
+"a. do...while\n"
+"b. if...else\n"
+"c. for loop\n"
+"2. Black Box testing: (Functional Testing) Design a login web page and test the same.\n"
+"3. Black Box testing: (Functional Testing and performance Testing with database)"
+"Design a Web page to update the student record into the database and test the same.\n"
+"4. Black Box testing: (Functional Testing and performance Testing )"
+"Design a web page to provide the total number of objects present / available on the page"
+"and test the same.\n"
+"5. Black Box testing: (Load Testing )"
+"Design a web page to get the count of visitors who visit your web page.\n"
+"6. White Box Testing: Code Coverage- JaCoCo
+"Write a Java program to compute the factorial of a given non-negative number using:\n"
+"a. Iterative Process\n"
+"b. Recursion\n"
+"Produce the Coverage Information using the JaCoCo toolGuidelines for Software Testing Lab Assignments "
+"Introduction to Selenium IDE: (http://docs.seleniumhq.org/docs/02_selenium_ide.jsp)"
+"The Selenium-IDE (Integrated Development Environment) is the tool you use to develop your"
+"Selenium test cases. It’s an easy-to-use Firefox plug-in and is generally the most efficient way"
+"to develop test cases. It also contains a context menu that allows you to first select a UI element"
+"from the browser’s currently displayed page and then select from a list of Selenium commands"
+"with parameters pre-defined according to the context of the selected UI element. This is not only"
+"a time-saver, but also an excellent way of learning Selenium script syntax."
+"Selenium Server (formerly the Selenium RC Server)"
+"The Selenium Server is needed in order to run either Selenium RC style scripts or Remote"
+"Selenium Webdriver ones. The 2.x server is a drop-in replacement for the old Selenium RC"
+"server and is designed to be backwards compatible with your existing infrastructure .\n\n"
+"Configuration Needed:\n"
+"JDK 1.6 or above\n"
+"Selenium IDE (http://docs.seleniumhq.org/docs/02_selenium_ide.jsp)\n"
+"Eclipse for Java or Netbeans\n"
+"Selenium RC Server (http://docs.seleniumhq.org/download/)\n"
+"(Down load Selenium Client drivers of java, we will get Selenium Server v2.1xxx.zip file)\n"
+"firebug (http://getfirebug.com)\n"
+"Apache Tomcat 6 (http://apache.org)\n"
+    </string>
+
+    <string name="project1">
+ "Project guidelines:\n"
+"1. The project shall be carried out in a team of minimum of 2 members or maximum of three"
+"students.\n"
+"2. The team has to give three seminars on their project work focusing on the following aspect:\n"
+"a. Synopsis / Problem Definition\n"
+"b. System Requirement Specifications (SRS)\n"
+"c. Design – High Level ,Low Level\n"
+"3. Students shall submit the weekly progress report to their allotted internal guides.\n\n"
+"Evaluation\n"
+"A. Internal Assessment:\n"
+"The project shall be evaluated for\n"
+"a) Synopsis : 5 Marks\n"
+"b) SRS Document as per IEEE format:5 marks\n"
+"c) Design :20 marks\n"
+"(i) High Level Design\n"
+"(ii) Low Level Design\n"
+"d) Coding and Testing :20 marks\n"
+"e) Report :10 marks\n"
+"B. Final Examination:\n"
+"The final examination shall be evaluated on the following guidelines.\n"
+"Project Report : 30 Marks\n"
+"Presentation: 30 Marks\n"
+"Demonstration : 90 Marks\n"
+"Viva-Voce: 30 Marks\n"
+"Modifications: 60 Marks\n\n"
+"The following suggested guidelines must be followed in preparing the Final project"
+"Report:\n\n"
+"Good quality white executive bond paper A4 size should be used for typing and duplication.\n"
+"Care should be taken to avoid smudging while duplicating the copies.\n"
+"Page Specification :(Written paper and source code)\n"
+" Left margin - 3.0 cms\n"
+" Right margin- 2.0 cms\n"
+" Top margin 2.54 cms\n"
+" Bottom margin 2.54 cms\n"
+" Page numbers - All text pages as well as Program source code listing should be"
+"numbered at the bottom center of the pages.\n"
+"Normal Body Text: Font Size: 12, Times New Roman, Double Spacing, Justified. 6 point"
+"above and below para spacing\n"
+"Paragraph Heading Font Size: 14, Times New Roman, Underlined, Left Aligned. 12 point"
+"above and below spacing\n"
+"Chapter Heading Font Size: 20, Times New Roman, Centre Aligned, 30 point above and"
+"below spacing.\n"
+"Coding Font size :10, Courier New, NormalSubmission of Project Report to the University :The student will submit his/her project report"
+"in the prescribed format. The Project Report should include:\n"
+"1. One copy of the synopsis.\n
+"2. One hard Copy of the Project Report.\n"
+"3. Soft copy of project on CD in a thick envelope pasted inside of the back cover of the project\n"
+"report.\n"
+"4. The Project Report may be about 75 pages (excluding coding).\n\n"
+"FORMAT OF THE STUDENT PROJECT REPORT ON COMPLETION OF THE PROJECT\n"
+" Cover Page as per format\n"
+" Acknowledgement\n"
+" Certificate of the project guide/Centre Manager as at Annexure III\n"
+" Certificate of the Company/Organization (for direct candidates)\n"
+" Synopsis of the Project\n"
+" Main Report\n"
+" Objective and Scope of the Project\n"
+" theoretical Background Definition of Problem\n"
+" System Analysis and Design\n"
+" User Requirements System Planning (PERT Chart)\n"
+" Methodology adopted\n"
+" System Implementation and Details ofHardware and Software used.\n"
+" System Maintenance and Evaluation\n"
+" Cost and benefit Analysis\n"
+" Detailed Life Cycle of the Project\n"
+" ERD, DFD\n"
+" Input and output screen design\n"
+" Process involved\n"
+" Methodology used for testing\n"
+" Test Report, Printout of the Reports and print out of the Code Sheet\n"
+" User/Operational Manual - including security aspects, access rights, back up, controls, etc.\n\n"
+"Annexure:\n"
+"1. Brief background of the organization where the student has developed the project.\n"
+"2. Data Dictionary (This should give a catalogue of the data elements used in the system / sub"
+"system developed. The following are the details required. Write NA if NOT applicable:\n"
+"Data Name, Aliases, if any Length (Size) Type, Numeric, Alpha, Binary etc.\n"
+"3. List of abbreviations, Figures, Tables\n"
+"4. References Bibliography Website\n"
+"5. Soft copy of the project on CD/DVD.\n"
+    </string>
+
+
+</resources>

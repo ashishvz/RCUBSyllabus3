@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ashishvz.rcubsyllabus.Firstsem">
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/maths"
+        ads:layout_constraintBottom_toTopOf="@+id/button8"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/button8"
+        app:layout_constraintStart_toStartOf="@+id/button8" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/english1"
+        ads:layout_constraintBottom_toTopOf="@+id/button9"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toBottomOf="@+id/button7"
+        app:layout_constraintEnd_toEndOf="@+id/button9"
+        app:layout_constraintStart_toStartOf="@+id/button9" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/compfundamentals"
+        ads:layout_constraintBottom_toTopOf="@+id/button10"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toBottomOf="@+id/button8"
+        app:layout_constraintEnd_toEndOf="@+id/button10"
+        app:layout_constraintStart_toStartOf="@+id/button10" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/C"
+        ads:layout_constraintBottom_toTopOf="@+id/button11"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toBottomOf="@+id/button9"
+        app:layout_constraintEnd_toEndOf="@+id/button11"
+        app:layout_constraintStart_toStartOf="@+id/button11" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/ic"
+        ads:layout_constraintBottom_toTopOf="@+id/button12"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toBottomOf="@+id/button10"
+        app:layout_constraintEnd_toEndOf="@+id/button12"
+        app:layout_constraintStart_toStartOf="@+id/button12" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/account"
+        ads:layout_constraintBottom_toTopOf="@+id/adView2"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toBottomOf="@+id/button11"
+        app:layout_constraintEnd_toEndOf="@+id/adView2"
+        app:layout_constraintStart_toStartOf="@+id/adView2" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/tempadid"
+        ads:layout_constraintHorizontal_bias="0.5"
+        ads:layout_constraintTop_toBottomOf="@+id/button12"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>
